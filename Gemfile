@@ -25,6 +25,7 @@ gem "figaro"
 group :development, :test do
   gem 'pry'
   gem 'shoulda-matchers'
+  gem 'travis'
 end
 
 group :development do
